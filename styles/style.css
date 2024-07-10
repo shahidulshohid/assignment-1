@@ -391,4 +391,18 @@ nav button {
 .footer-icon-container img {
   padding-left: 24px;
 }
+
+.back-home{
+  text-align: center;
+  margin-top: 40px;
+}
+.back-home a{
+  padding: 20px 30px;
+  background-color: black;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+}
 /* footer section styles start from here */
